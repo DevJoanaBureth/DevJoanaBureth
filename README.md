@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="molang-piupiu.webp" alt="Bannière de bienvenue avec Piu Piu du cartoon coréen 'Molang'">
+  <img src="bannière.jpg" alt="Bannière de bienvenue, photo de la martinique">
 </p>
 <div align="center">
   <h1>
