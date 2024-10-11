@@ -14,8 +14,8 @@
       width="300px"
     />
   </a>
-
-  <p>Une développeuse passionnée qui explore toujours de nouvelles technologies et crée des projets sympas</p>
+<p></p>
+  <p>Une développeuse passionnée qui explore toujours<br>de nouvelles technologies et crée des projets sympas</p>
 
 <h3>🔧 Technologies & Outils</h3> 
   <p align="center">
