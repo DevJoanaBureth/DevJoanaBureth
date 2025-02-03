@@ -22,9 +22,10 @@
 </a>
 <h3 align="left">👩‍💻  A Propos de moi</h3>
 <p align="left">Je m'appelle Joana Bureth, et je viens de France !<br><br>
-  - 🔭 Je suis stagiaire chez BPCE SI<br>
-  - 📚 En ce moment j'apprends JQuery<br>
-  - ⚡ Sur mon temps libre je dessine</p>
+  🔭 Je suis stagiaire chez BPCE SI<br>
+  📚 En ce moment j'apprends JQuery<br>
+  ⚡ Sur mon temps libre je dessine
+</p>
 
 ###
 
@@ -69,11 +70,13 @@
 
 <h2>⭐ Créons quelque chose de génial ensemble !</h2>
 
-  💻 **Je travaille actuellement sur** : [Agence de Communication](https://github.com/DevJoanaBureth/Agence-de-communication)
+💻 **Je travaille actuellement sur** : [Agence de Communication](https://github.com/DevJoanaBureth/Agence-de-communication)
 
-  🖼️ **Mon** [Portfolio](https://devjoanabureth.github.io/Portfolio/) **en un clic !**
+🖼️ **Mon** [Portfolio](https://devjoanabureth.github.io/Portfolio/) **en un clic !**
 
-  _"Le meilleur moyen de prédire l'avenir, c'est de le créer."_ – **Peter Drucker**
+> "Le meilleur moyen de prédire l'avenir, c'est de le créer." – **Peter Drucker**
 
-  ![GitHub stars](https://img.shields.io/github/stars/DevJoanaBureth/E-commerce?style=social)
-  ![GitHub followers](https://img.shields.io/github/followers/DevJoanaBureth?style=social)
+<br>
+
+![GitHub stars](https://img.shields.io/github/stars/DevJoanaBureth/E-commerce?style=social)
+![GitHub followers](https://img.shields.io/github/followers/DevJoanaBureth?style=social)
