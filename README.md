@@ -21,7 +21,10 @@
     alt="Piu Piu du cartoon coréen 'Molang' heureux, avec des étoiles dans les yeux"  />
 </a>
 <h3 align="left">👩‍💻  A Propos de moi</h3>
-<p align="left">Je m'appelle Joana Bureth, et je viens de France !<br><br>- 🔭 Je suis stagiaire chez BPCE SI<br>- 📚 En ce moment j'apprendre JQuery<br>- ⚡ Sur mon temps libre de dessine</p>
+<p align="left">Je m'appelle Joana Bureth, et je viens de France !<br><br>
+  - 🔭 Je suis stagiaire chez BPCE SI<br>
+  - 📚 En ce moment j'apprends JQuery<br>
+  - ⚡ Sur mon temps libre je dessine</p>
 
 ###
 
