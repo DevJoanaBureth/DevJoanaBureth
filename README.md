@@ -37,7 +37,7 @@
   
   <h2>⭐ Créons quelque chose de génial ensemble !</h2>
 
-  💻 **Je travaille actuellement sur** : [E-commerce](https://github.com/DevJoanaBureth/E-commerce)
+  💻 **Je travaille actuellement sur** : [Agence de Communication]((https://github.com/DevJoanaBureth/Agence-de-communication))
 
   🖼️ **Mon** [Portfolio](https://devjoanabureth.github.io/Portfolio/) **en un clic !**
 
