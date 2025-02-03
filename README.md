@@ -63,20 +63,13 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
     <img width="12" />
   </p>
-  <h4>Outils :</h4>
-  <p>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
-    <img width="12" />
-  </p>
 </div>
 
 ###
 
 <h2>⭐ Créons quelque chose de génial ensemble !</h2>
 
-  💻 **Je travaille actuellement sur** : [Agence de Communication]((https://github.com/DevJoanaBureth/Agence-de-communication))
+  💻 **Je travaille actuellement sur** : [Agence de Communication](https://github.com/DevJoanaBureth/Agence-de-communication)
 
   🖼️ **Mon** [Portfolio](https://devjoanabureth.github.io/Portfolio/) **en un clic !**
 
@@ -84,13 +77,3 @@
 
   ![GitHub stars](https://img.shields.io/github/stars/DevJoanaBureth/E-commerce?style=social)
   ![GitHub followers](https://img.shields.io/github/followers/DevJoanaBureth?style=social)
-
-###
-
-<h3 align="left">🔥   Mes Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=devjoanabureth&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
