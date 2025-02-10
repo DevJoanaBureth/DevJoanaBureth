@@ -70,7 +70,7 @@
 
 <h2>⭐ Créons quelque chose de génial ensemble !</h2>
 
-💻 **Je travaille actuellement sur** : [Agence de Communication](https://github.com/DevJoanaBureth/Agence-de-communication)
+💻 **Je travaille actuellement sur** : [Gestionnaire Voiture](https://github.com/DevJoanaBureth/Gestionnaire-Voiture)
 
 🖼️ **Mon** [Portfolio](https://devjoanabureth.github.io/Portfolio/) **en un clic !**
 
