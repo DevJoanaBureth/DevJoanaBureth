@@ -9,17 +9,17 @@
 
 ###
 
-<a href="https://devjoanabureth.github.io/Portfolio/">
-  <img align="right" height="150" src="giphy.webp"
-    alt="Piu Piu du cartoon coréen 'Molang' heureux, avec des étoiles dans les yeux"  />
-</a>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=devjoanabureth&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 <h3 align="left">👩‍💻  A Propos de moi</h3>
-<p align="left">Je m'appelle Joana Bureth, et je viens de France !<br><br>
+<p align="left">Je m'appelle Joana Bureth, et je suis française !<br><br>
   🔭 Je suis stagiaire chez BPCE SI<br>
   📚 En ce moment j'apprends JQuery<br>
   ⚡ Sur mon temps libre je dessine
 </p>
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=devjoanabureth&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+<a href="https://devjoanabureth.github.io/Portfolio/">
+  <img align="right" height="150" src="giphy.webp"
+    alt="Piu Piu du cartoon coréen 'Molang' heureux, avec des étoiles dans les yeux"  />
+</a>
 
 ###
 
